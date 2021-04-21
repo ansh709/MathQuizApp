@@ -3,7 +3,9 @@
     padding: 0px;
     box-sizing: border-box;
 }
-
+.answers{
+	color:black;
+}
 body {
     font-family: 'Original Surfer', cursive!important;
 }
@@ -69,7 +71,7 @@ img {
 .Right_Answers {
     padding: 10px;
     backdrop-filter: blur(11px);
-    color: white;
+    color: black;
 }
 
 section {
